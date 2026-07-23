@@ -1,0 +1,51 @@
+
+HTML
+CSS
+JavaScript
+TypeScript
+React
+Next.js
+Node.js
+Express
+PostgreSQL
+MongoDB
+Git/GitHub
+Docker
+Deployment
+AI APIs
+
+
+
+
+❤️
+Arrays
+Strings
+Hash Maps / Hash Sets
+Two Pointers
+Sliding Window
+Prefix Sum
+Binary Search
+Sorting
+⭐
+Linked Lists
+Stacks
+Queues
+Recursion
+Backtracking
+ 🚀
+Trees
+Binary Search Trees (BST)
+DFS
+BFS
+Heaps / Priority Queues
+💪
+Graphs
+Union Find (DSU)
+Topological Sort
+Shortest Path (Dijkstra basics)
+🧠
+Dynamic Programming
+Greedy Algorithms
+Trie
+Segment Tree
+Bit Manipulation
